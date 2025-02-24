@@ -1,0 +1,14 @@
+{
+	"name": "password-manager-api",
+	"version": "1.0.0",
+	"description": "API for Password Manager",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "thesunfern",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.21.2"
+	}
+}

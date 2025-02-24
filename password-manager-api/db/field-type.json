@@ -1,0 +1,10 @@
+[
+    {
+        "fieldTypeId": 1,
+        "fieldType": "text"
+    },
+    {
+        "fieldTypeId": 2,
+        "fieldType": "password"
+    }
+]
